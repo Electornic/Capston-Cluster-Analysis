@@ -80,7 +80,7 @@ par(mfrow = c(1, 1))
              0            0            0            0            0            0            0            0            0            0            0            0            0
 ```
 
-![img](boxplot.png)
+![img](./boxplot.png)
 
 -----
 
@@ -120,7 +120,7 @@ corrplot(cor_matrix, method = "color", type = "upper", order = "hclust",
  3rd Qu.:4536441   3rd Qu.:1280   3rd Qu.:3.030
  Max.   :8494150   Max.   :2049   Max.   :3.110
 ```
-![img](corrplot.png)
+![img](./corrplot.png)
 
 -----
 
